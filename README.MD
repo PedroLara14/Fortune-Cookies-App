@@ -17,7 +17,7 @@ Fortune Cookies App is a basic application developed using React and Vite, with 
 
 ## Demo
 
-You can find a live demo of the Fortune Cookies App [here](https://your-demo-link.com).
+You can find a live demo of the Fortune Cookies App [here](https://fortune-cookie-react-app.netlify.app/).
 
 ## Installation
 
