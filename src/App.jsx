@@ -30,7 +30,7 @@ function App() {
       style={objStyle}
       className="app h-screen bg-center bg-cover bg-no-repeat flex flex-col items-center"
     >
-      <h1 className="app__title font-title text-white font-black text- text-stroke-3 text-7xl tracking-tighter mt-20">
+      <h1 className="app__title font-title text-white font-black text- text-stroke-3 text-7xl tracking-tight mt-20">
         GALLETAS DE LA <span className="font-title block ml-14">FORTUNA</span>
       </h1>
       <ButtonPhrase
