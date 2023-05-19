@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+![Screenshot](/public/images/readme-image.png)
+
 ## Description
 
 Fortune Cookies App is a basic application developed using React and Vite, with Tailwind CSS as the CSS framework. It generates and changes fortune phrases and backgrounds randomly, providing a fun and interactive experience.
