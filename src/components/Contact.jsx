@@ -9,7 +9,7 @@ const Contact = () => {
         <p className="text-2xl tracking-tighter">
           Meet the developer of this project
         </p>
-        <a href="https://github.com/PedroLara14" className="-mt-0.5 ml-2">
+        <a href="https://github.com/PedroLara14" target="_blank" className="-mt-0.5 ml-2">
           <BsGithub size={30} />
         </a>
       </div>

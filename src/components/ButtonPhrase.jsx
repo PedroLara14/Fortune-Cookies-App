@@ -11,14 +11,13 @@ const ButtonPhrase = ({ setPhraseRandom, setPathRandom, arrBackground }) => {
   }
 
   return (
-    <div className="app__button">
       <button
-        className="bg-orange-500 text-brown text-lg px-6 py-1 mt-24 border-2 rounded-lg border-amber-950"
+        className="bg-orange-500 text-brown text-lg px-6 py-1 mt-10 border-2 rounded-lg border-amber-950"
         onClick={handleRandomPhrase}
       >
         Probar mi suerte
       </button>
-    </div>
+
   );
 };
 
